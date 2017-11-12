@@ -1,0 +1,7 @@
+Wymagania aplikacji:
+- ladowanie pliku z taskami w formacie xlsx
+- latwy przeglad taskow w tabeli z nazwanymi kolumnami
+- mozliwosc zmiany miejsc kolumn
+- mozliwosc sortowania zawartosci tabeli po danej kolumnie (klikajac na nia)
+- mozliwosc zawezania wynikow w tabeli, np tylko taski z priority 2-major. Ma to sie odbywac poprzez wybor opcji lub wpisanie frazy
+w pierwszym wierszu tabeli, nad wynikami.

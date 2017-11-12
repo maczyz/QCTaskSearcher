@@ -1,0 +1,9 @@
+.root
+{
+ -fx-background-color: white;
+}
+
+#tableOfResults
+{
+	-fx-font-size:12px;
+}
