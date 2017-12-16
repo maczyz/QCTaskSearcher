@@ -5,3 +5,4 @@ Wymagania aplikacji:
 - mozliwosc sortowania zawartosci tabeli po danej kolumnie (klikajac na nia)
 - mozliwosc zawezania wynikow w tabeli, np tylko taski z priority 2-major. Ma to sie odbywac poprzez wybor opcji lub wpisanie frazy
 w pierwszym wierszu tabeli, nad wynikami.
+- przycisk Szukaj ma byc w trybie enable tylko wtedy, gdy co najmniej jedno pole wyszukiwania zawiera jakas wartosc

@@ -7,3 +7,13 @@
 {
 	-fx-font-size:12px;
 }
+
+#anchorPane{
+	-fx-background-color: #52527a;
+}
+
+#menuBar, .menuItem{
+	-fx-background-color: #3d3d5c;
+	-fx-text-fill: #F1F2F0;
+}
+
